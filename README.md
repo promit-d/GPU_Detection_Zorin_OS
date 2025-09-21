@@ -1,4 +1,6 @@
-<img width="443" height="146" alt="Screenshot from 2025-09-21 06-19-31" src="https://github.com/user-attachments/assets/1d0c9c09-efd6-49d3-8dfe-5ca4a2367003" />
+<img width="100%" height="146" alt="Screenshot from 2025-09-21 06-19-31" src="https://github.com/user-attachments/assets/1d0c9c09-efd6-49d3-8dfe-5ca4a2367003" />
+
+
 # GPU Detection Tray Icon for Zorin OS
 
 This Python app creates a tray icon that displays the currently selected GPU and allows switching between GPUs (NVIDIA/Intel) with a click. It is designed to run as a background service and start automatically at login.
